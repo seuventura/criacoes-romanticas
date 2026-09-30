@@ -1,0 +1,9 @@
+streamlit>=1.50,<2
+skyfield>=1.49,<2
+matplotlib>=3.9,<4
+numpy>=2.0,<3
+pandas>=2.2,<4
+pillow>=11.0,<13
+geopy>=2.4,<3
+# Base de fusos horários (necessária no Windows, onde o sistema não tem uma).
+tzdata>=2024.1
